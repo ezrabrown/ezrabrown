@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezrabrown
-- 👀 I’m interested in techical writing
+- 👀 I’m interested in technical writing
 - 🌱 I’m currently learning how to help on READMEs and other documentation
 
 
